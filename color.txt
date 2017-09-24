@@ -1,0 +1,3 @@
+some color are given:
+1.black
+2.blue
